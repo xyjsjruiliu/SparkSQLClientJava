@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SparkSQLClientJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkSQLClientJava_jar</output-path>
+    <root id="archive" name="SparkSQLClientJava.jar">
+      <element id="module-output" name="SparkSQLClientJava" />
+      <element id="extracted-dir" path="$USER_HOME$/project/zeromq/zmq.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../myjson/out/artifacts/myjson_jar/myjson.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
